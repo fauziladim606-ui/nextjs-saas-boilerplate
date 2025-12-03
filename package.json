@@ -1,0 +1,42 @@
+{
+  "name": "nextjs-saas-boilerplate",
+  "version": "1.0.0",
+  "description": "Production-ready SaaS boilerplate with Next.js, PostgreSQL, and Stripe integration",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate dev",
+    "prisma:studio": "prisma studio",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down"
+  },
+  "dependencies": {
+    "next": "^16.0.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@prisma/client": "^6.1.0",
+    "next-auth": "^4.24.11",
+    "bcryptjs": "^2.4.3",
+    "stripe": "^17.5.0",
+    "zod": "^3.24.1",
+    "react-hot-toast": "^2.4.1",
+    "zustand": "^5.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "@types/bcryptjs": "^2.4.6",
+    "prisma": "^6.1.0",
+    "tailwindcss": "^4.0.0",
+    "postcss": "^8.4.49",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.17.0",
+    "eslint-config-next": "^16.0.6"
+  }
+}
